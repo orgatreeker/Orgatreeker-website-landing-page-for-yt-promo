@@ -8,7 +8,7 @@ import transactions from "@/assets/orgatreeker/4.jpg";
 import budget from "@/assets/orgatreeker/5.jpg";
 import dashboard from "@/assets/orgatreeker/6.jpg";
 
-const CHECKOUT = "https://dodo.pe/orgatreeker";
+const CHECKOUT = "https://checkout.dodopayments.com/buy/pdt_6uVFgRmLEJS7pmza7QxaV?quantity=1&redirect_url=https://drive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D17IcaYH4OFZzkO8V__1alkMiI8NIoeqLK";
 const coverImage = { src: cover, alt: "Ultimate Budget Spreadsheet cover showing annual dashboards across desktop, tablet, and phone screens" };
 const dashboardAlt = "Annual finance dashboard with income, expense, savings, and debt charts";
 const images = [
